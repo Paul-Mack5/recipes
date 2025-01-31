@@ -5,3 +5,5 @@
 * lemon
 * olive oil
 * salt
+## Instructions
+* add chickpeas to processor
